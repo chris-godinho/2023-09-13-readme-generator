@@ -22,8 +22,8 @@
   4
   
   ## <a name="license"></a>License
-  
-  MIT
+
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   
   ## <a name="contribute"></a>How to Contribute
   
@@ -35,5 +35,4 @@
 
   ## <a name="questions"></a>Questions
 
-  https://github.com/7
-  8
+  Feel free to ask me any questions at [my GitHub page](<https://github.com/7>) or through [e-mail](<mailto:8>).
