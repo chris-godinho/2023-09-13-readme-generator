@@ -1,3 +1,25 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+
+A simple application for creating markdown README files for GitHub repositories.
+
+![A render of the app in execution](/assets/images/readme_render.jpg)
+
+## Installation
+
+Clone this repo, then run "node index.js" in the "Develop" folder.
+
+This application requires the [Inquirer](<https://www.npmjs.com/package/inquirer/v/8.2.4>) package to work.
+
+## How can I Contribute?
+
+This is a one-off project that's not being supported any longer. Feel free, however, to clone this repo (but make sure to credit the original creators).
+
+## Credits
+
+This application was created by the University of Toronto's School of Continuing Studies, with additions by Chris Godinho.
+
+## License
+
+This project is licensed under the [MIT](/LICENSE) License.
