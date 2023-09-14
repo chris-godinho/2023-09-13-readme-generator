@@ -6,6 +6,8 @@ A simple application for creating markdown README files for GitHub repositories.
 
 ![A render of the app in execution](/assets/images/readme_render.jpg)
 
+A video of the app in use can be seen at <https://youtu.be/K7xPo8XiNj0>.
+
 ## Installation
 
 Clone this repo, then run "node index.js" in the "Develop" folder.
